@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    color: rgb(6, 35, 253);
+}
+
+/* p{
+    text-align: center;
+} */
+.tag-line {
+    color: rgb(255, 38, 0);
+    text-align: center;
+}
+
+.event {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px;
+    object-position: 40% 40%;
+
+}
+
+.eventimage {
+    height: 400px;
+    width: 50%;
+
+
+}
+
+.eventlist {
+    text-align: left;
+    padding-left: 50px;
+    font-size: 20px;
+    border-bottom: red;
+    width: 50%;
+
+}
+
+button {
+    background-color: lightgreen;
+    margin-left: 50%;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin-left: 33%;
+}
